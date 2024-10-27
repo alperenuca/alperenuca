@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alperenuca
 - 👀 I’m interested in Full Stack Programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C#
 - 📫 alperennucaa@gmail.com
 
 
