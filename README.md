@@ -1,5 +1,5 @@
 👋 Hi, I’m @alperenuca  
-💻 Full Stack Dev – I write code and pray it works  
+💻 I write code and pray it works  
 📫 Email me: alperennucaa@gmail.com  
 
 
