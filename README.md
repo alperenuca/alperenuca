@@ -62,16 +62,13 @@ const alperen = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alperenuca&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&icon_color=F75C7E&title_color=FF6AC1" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperenuca&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=FF6AC1" alt="top langs" />
+<a href="https://github.com/alperenuca?tab=followers"><img src="https://img.shields.io/github/followers/alperenuca?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=FF6AC1&labelColor=1a1b27" alt="followers"/></a>
+<a href="https://github.com/alperenuca?tab=repositories"><img src="https://img.shields.io/badge/Repositories-18-F75C7E?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="repos"/></a>
+<img src="https://img.shields.io/badge/Coding%20since-2023-845EC2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="since"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=alperenuca&theme=radical&hide_border=true&ring=F75C7E&fire=FF6AC1&currStreakLabel=F75C7E" alt="streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=alperenuca&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
+<img src="https://streak-stats.demolab.com?user=alperenuca&theme=radical&hide_border=true&border_radius=12&ring=F75C7E&fire=FF6AC1&currStreakLabel=F75C7E&sideLabels=FF6AC1&dates=8b949e" alt="GitHub streak stats" />
 
 </div>
 
