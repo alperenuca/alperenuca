@@ -74,6 +74,30 @@ const alperen = {
 
 ---
 
+### 🐍 Watch my contributions get eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alperenuca/alperenuca/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alperenuca/alperenuca/output/github-snake.svg" />
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/alperenuca/alperenuca/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+### 🧊 Contribution galaxy (3D)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/alperenuca/alperenuca/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="95%" />
+
+</div>
+
+---
+
 <div align="center">
 
 ⭐️ Thanks for stopping by — let's build something cool!
